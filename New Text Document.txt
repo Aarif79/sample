@@ -14,7 +14,10 @@ will repeat itself in the direction(s)<br>
 where it is smaller than the element<br>
 where it is specified. (Try resizing the<br>
 browser window to see how the<br>
-background image behaves.
+background image behaves. 
+
+
+<h1>added in development branch</h1>
 </div>
 
 </body>
